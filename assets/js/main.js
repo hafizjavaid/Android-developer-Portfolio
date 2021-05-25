@@ -187,5 +187,6 @@
     loop: true,
     items: 1
   });
+  $("#clicked .portfolio-wrap").click();
 
 })(jQuery);

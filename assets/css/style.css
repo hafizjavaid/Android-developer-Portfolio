@@ -831,6 +831,11 @@ body::-webkit-scrollbar-thumb {
   background-color: var(--primary-color);
   border-radius: 10px;
 }
+body{
+  scrollbar-color: var(--primary-color) #fff;
+  scrollbar-width: 10px;
+}
+
 
 
 /*--------------------------------------------------------------
